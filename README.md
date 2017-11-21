@@ -23,11 +23,11 @@ The tuners are going to explore and exploit the best values for these parameters
 
 ## Results
 These are the results:
-1. Bayesian optimization:
+1. [Bayesian optimization](./bopt_nn.ipynb):
 ![ba](./ba.PNG)
 
-2. SMBO TPE:
+2. [SMBO TPE](./tpe_nn.ipynb):
 ![smbotpe](./smbotpe.PNG)
 
-3. Genetic Algorithm:
+3. [Genetic Algorithm](./ga_nn.ipynb):
 ![ga](ga.PNG)
